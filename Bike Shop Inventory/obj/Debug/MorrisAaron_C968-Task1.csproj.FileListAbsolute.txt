@@ -1,0 +1,27 @@
+C:\Users\Michelangelo\OneDrive - Western Governors University\C968 Software I\MorrisAaron_C968-Task1\bin\Debug\MorrisAaron_C968-Task1.exe.config
+C:\Users\Michelangelo\OneDrive - Western Governors University\C968 Software I\MorrisAaron_C968-Task1\bin\Debug\MorrisAaron_C968-Task1.exe
+C:\Users\Michelangelo\OneDrive - Western Governors University\C968 Software I\MorrisAaron_C968-Task1\bin\Debug\MorrisAaron_C968-Task1.pdb
+C:\Users\Michelangelo\OneDrive - Western Governors University\C968 Software I\MorrisAaron_C968-Task1\obj\Debug\MorrisAaron_C968-Task1.csproj.AssemblyReference.cache
+C:\Users\Michelangelo\OneDrive - Western Governors University\C968 Software I\MorrisAaron_C968-Task1\obj\Debug\MorrisAaron_C968_Task1.AddPart.resources
+C:\Users\Michelangelo\OneDrive - Western Governors University\C968 Software I\MorrisAaron_C968-Task1\obj\Debug\MorrisAaron_C968_Task1.AddProduct.resources
+C:\Users\Michelangelo\OneDrive - Western Governors University\C968 Software I\MorrisAaron_C968-Task1\obj\Debug\MorrisAaron_C968_Task1.MainScreen.resources
+C:\Users\Michelangelo\OneDrive - Western Governors University\C968 Software I\MorrisAaron_C968-Task1\obj\Debug\MorrisAaron_C968_Task1.Properties.Resources.resources
+C:\Users\Michelangelo\OneDrive - Western Governors University\C968 Software I\MorrisAaron_C968-Task1\obj\Debug\MorrisAaron_C968-Task1.csproj.GenerateResource.cache
+C:\Users\Michelangelo\OneDrive - Western Governors University\C968 Software I\MorrisAaron_C968-Task1\obj\Debug\MorrisAaron_C968-Task1.csproj.CoreCompileInputs.cache
+C:\Users\Michelangelo\OneDrive - Western Governors University\C968 Software I\MorrisAaron_C968-Task1\obj\Debug\MorrisAaron_C968-Task1.exe
+C:\Users\Michelangelo\OneDrive - Western Governors University\C968 Software I\MorrisAaron_C968-Task1\obj\Debug\MorrisAaron_C968-Task1.pdb
+C:\Users\Michelangelo\Desktop\Portfolio\MorrisAaron_C968-Task1\bin\Debug\MorrisAaron_C968-Task1.exe.config
+C:\Users\Michelangelo\Desktop\Portfolio\MorrisAaron_C968-Task1\bin\Debug\MorrisAaron_C968-Task1.exe
+C:\Users\Michelangelo\Desktop\Portfolio\MorrisAaron_C968-Task1\bin\Debug\MorrisAaron_C968-Task1.pdb
+C:\Users\Michelangelo\Desktop\Portfolio\MorrisAaron_C968-Task1\obj\Debug\MorrisAaron_C968_Task1.AddPart.resources
+C:\Users\Michelangelo\Desktop\Portfolio\MorrisAaron_C968-Task1\obj\Debug\MorrisAaron_C968_Task1.AddProduct.resources
+C:\Users\Michelangelo\Desktop\Portfolio\MorrisAaron_C968-Task1\obj\Debug\MorrisAaron_C968_Task1.MainScreen.resources
+C:\Users\Michelangelo\Desktop\Portfolio\MorrisAaron_C968-Task1\obj\Debug\MorrisAaron_C968_Task1.Properties.Resources.resources
+C:\Users\Michelangelo\Desktop\Portfolio\MorrisAaron_C968-Task1\obj\Debug\MorrisAaron_C968-Task1.csproj.GenerateResource.cache
+C:\Users\Michelangelo\Desktop\Portfolio\MorrisAaron_C968-Task1\obj\Debug\MorrisAaron_C968-Task1.csproj.CoreCompileInputs.cache
+C:\Users\Michelangelo\Desktop\Portfolio\MorrisAaron_C968-Task1\obj\Debug\MorrisAaron_C968-Task1.exe
+C:\Users\Michelangelo\Desktop\Portfolio\MorrisAaron_C968-Task1\obj\Debug\MorrisAaron_C968-Task1.pdb
+C:\Users\Michelangelo\Desktop\Portfolio\MorrisAaron_C968-Task1\obj\Debug\MorrisAaron_C968-Task1.csproj.AssemblyReference.cache
+C:\Users\Michelangelo\Desktop\Portfolio\MorrisAaron_C968-Task1\obj\Debug\MorrisAaron_C968_Task1.DeleteConfirm.resources
+C:\Users\Michelangelo\Desktop\Portfolio\MorrisAaron_C968-Task1\obj\Debug\MorrisAaron_C968_Task1.ModifyPart.resources
+C:\Users\Michelangelo\Desktop\Portfolio\MorrisAaron_C968-Task1\obj\Debug\MorrisAaron_C968_Task1.ModifyProduct.resources
